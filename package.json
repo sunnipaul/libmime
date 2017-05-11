@@ -3,10 +3,10 @@
   "description": "Encode and decode quoted printable and base64 strings",
   "version": "3.1.0",
   "main": "lib/libmime",
-  "homepage": "https://github.com/andris9/libmime",
+  "homepage": "https://github.com/sunnipaul/libmime",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andris9/libmime.git"
+    "url": "git://github.com/sunnipaul/libmime.git"
   },
   "license": "MIT",
   "keywords": [
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "iconv-lite": "0.4.15",
-    "libbase64": "git://github.com/sunnipaul/libbase64",
+    "libbase64": "https://github.com/sunnipaul/libbase64/archive/v0.1.1.tar.gz",
     "libqp": "1.1.0"
   },
   "devDependencies": {
